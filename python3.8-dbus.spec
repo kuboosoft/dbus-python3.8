@@ -2,7 +2,7 @@
 %define _legacy_common_support 1
 
 Summary: D-Bus Python Bindings
-Name:    dbus-python3.8
+Name:    python3.8-dbus
 Version: 1.2.16
 Release: 6%{?dist}
 
